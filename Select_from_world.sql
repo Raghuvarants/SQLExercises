@@ -39,7 +39,7 @@
 	  FROM world
 	  WHERE area > 3000000
 	  OR population > 250000000
-	  
+	  	  
    /* 8.Exclusive OR (XOR). Show the countries that are big by area or big by population but not both. Show name, population and area.
 	  
 	  -- Australia has a big area but a small population, it should be included.
